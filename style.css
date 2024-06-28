@@ -1,0 +1,134 @@
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;text-align:center}
+.fclear {clear:both}
+body {
+	background-image: url('../images/bg.png');
+	top: 00px;
+	position: relative;
+}
+.content {
+	background-image: url(../images/contentbg%20index.png);
+	width: 846px;
+	height: 785px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FFF;
+}
+.navbar {
+	background-image: url('../images/navbarbg.png');
+	margin-left: auto;
+	margin-right: auto;
+	width: 794px;
+	height: 36px;
+	text-align: center;
+	padding-top: 7px;
+	border-top-color: #F0F0F0;
+}
+table.navbartb {margin-left:auto;margin-right:auto}
+td.navtd {padding-left:10px;padding-right:10px}
+img.navimg {vertical-align:middle}
+a.linknav {outline:none}
+table.boxestb {
+	width: 816px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 600px;
+}
+td.boxestd {
+	vertical-align: top;
+	padding-top: 20px;
+	padding-left: 1px;
+	padding-right: 1px;
+	color: #FFFFFF;
+	font-family: "Arial Black", Gadget, sans-serif;
+	border-top-color: #0000FF;
+}
+.categories {
+	background-image: url(../images/boxes/categorias.png);
+	margin-left: auto;
+	margin-right: auto;
+	width: 204px;
+	height: 213px;
+	padding-top: 55px;
+	padding-left: 20px
+}
+a.linkcat {font-family:'Arial';font-size:14px;font-weight:normal;text-decoration:none;outline:none;letter-spacing:0;line-height:21px;color:#AFAFAF}
+a.linkprod {font-family:'Arial';font-size:14px;font-weight:bold;text-decoration:none;outline:none;letter-spacing:0;line-height:21px;color:#29befc}
+p.allproductsp {text-align:right;width:170px;margin-left:auto;margin-right:auto}
+.fproduct {
+	background-image: url(../images/boxes/Productos-Destacados.png);
+	margin-left: auto;
+	margin-right: auto;
+	width: 327px;
+	height: 552px;
+	text-align: center;
+	padding-top: 55px
+}
+span.titleprod {
+	font-family: 'Arial';
+	font-size: 23px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #000000
+}
+p.descriptionp {width:246px;font-family:'Arial';font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#9F9F9F;text-align:left;margin-left:auto;margin-right:auto}
+p.btnp {width:246px;text-align:right;margin-left:auto;margin-right:auto;height:30px}
+.yourbasket {
+	background-image: url(../images/boxes/Con-tu-compra.png);
+	margin-left: auto;
+	margin-right: auto;
+	width: 194px;
+	height: 102px;
+	padding-top: 46px
+}
+p.basketext {
+	width: 168px;
+	font-family: 'Arial';
+	font-size: 18px;
+	font-weight: bold;
+	font-style: normal;
+	color: #000000;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto
+}
+p.bstext {width:160px;font-family:'Arial';font-size:13px;font-weight:normal;font-style:normal;color:#9F9F9F;text-align:left;margin-left:auto;margin-right:auto}
+.newgifts {
+	background-image: url(../images/boxes/oferta-especial.png);
+	margin-left: auto;
+	margin-right: auto;
+	width: 194px;
+	height: 393px;
+	padding-top: 46px;
+	text-align: center
+}
+p.titlenewgift {width:160px;font-family:'Arial';font-size:13px;font-weight:bold;font-style:normal;margin-left:auto;margin-right:auto;color:#00c6ff}
+p.newdetails {width:160px;font-family:'Arial';font-size:13px;font-weight:bold;font-style:normal;margin-left:auto;margin-right:auto;color:#fc9605;text-align:right}
+a.linknewgifts {font-family:'Arial';font-size:13px;font-weight:bold;font-style:normal;color:#fc9605;text-decoration:underline;outline:none}
+.specialoffer {
+	background-image: url(../images/boxes/novedades.png);
+	margin-left: auto;
+	margin-right: auto;
+	width: 224px;
+	height: 215px;
+	padding-top: 30px;
+	text-align: center
+}
+.titlespecialo {
+	width: 190px;
+	font-family: Arial;
+	font-size: 23px;
+	font-weight: normal;
+	font-style: normal;
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	text-align: center
+}
+#footer {width:830px;margin-left:auto;margin-right:auto;font-family:'Arial';font-size:13px;font-weight:normal;font-style:normal;color:#FFF;text-align:right}
+#footer div {padding:11px}
+.content a {
+	font-size: 20px;
+}
